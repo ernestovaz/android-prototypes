@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Android Prototypes"
 include ':sumApp'
 include ':twoActivities'
-include ':accelerometer'
+include ':sensorApp'

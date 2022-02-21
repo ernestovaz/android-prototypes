@@ -1,4 +1,4 @@
-package com.inf01043.accelerometer;
+package com.inf01043.sensorapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-package com.inf01043.androidprototypes;
+package com.inf01043.sumapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;

@@ -10,7 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/accelerometer" />
+            <option value="$PROJECT_DIR$/sensorApp" />
             <option value="$PROJECT_DIR$/sumApp" />
             <option value="$PROJECT_DIR$/twoActivities" />
           </set>
