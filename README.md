@@ -1,5 +1,6 @@
 # Android-Prototypes
 ## SumApp
+![screenshot](sumAppScreen.jpg)
 Allows addition of two numbers.
 
 
